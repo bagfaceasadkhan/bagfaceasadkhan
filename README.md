@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asad Khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" height="300">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagfaceasadkhan&label=Profile%20views&color=0e75b6&style=flat" alt="bagfaceasadkhan" /> </p>
 
 - 🌱 I’m currently learning **ReactJs**
